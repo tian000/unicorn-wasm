@@ -1,6 +1,10 @@
 Unicorn Engine
 ==============
 
+This fork adds an [ARM-only WebAssembly build](web/README.md) using Unicorn
+1.0.3/TCI. Follow that guide for build instructions and the embedded Ledger
+integration.
+
 [![Join the chat at https://gitter.im/unicorn-engine/chat](https://badges.gitter.im/unicorn-engine/unicorn.svg)](https://gitter.im/unicorn-engine/chat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/unicorn-engine/unicorn.svg?branch=master)](https://travis-ci.org/unicorn-engine/unicorn)
 [![pypi downloads](https://pepy.tech/badge/unicorn)](https://pepy.tech/project/unicorn)
@@ -51,4 +55,3 @@ If you want to contribute, please pick up something from our [Github issues](htt
 We also maintain a list of more challenged problems in a [TODO list](https://github.com/unicorn-engine/unicorn/wiki/TODO).
 
 [CREDITS.TXT](CREDITS.TXT) records important contributors of our project.
-
